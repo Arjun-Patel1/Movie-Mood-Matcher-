@@ -37,12 +37,8 @@ movie-mood-matcher/
 └── README.md                      # Project documentation
 📦 Setup Instructions
 1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/movie-mood-matcher.git
-cd movie-mood-matcher
 2. Create Virtual Environment (Optional but Recommended)
+
 bash
 Copy
 Edit
