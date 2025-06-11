@@ -96,5 +96,5 @@ This project is licensed under the MIT License.
 
 📬 Contact
 Developer: Arjun Patel
-📧 Email: your.email@example.com
-🔗 LinkedIn | GitHub
+📧 Email: arjuinpatel89806@gmail.com
+🔗 Linked in: www.linkedin.com/in/arjunpatel97259
